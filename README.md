@@ -20,6 +20,11 @@ filter_bar: ^0.0.1
 import 'package:filter_bar/filter_bar.dart';
 ```
 
+## Preview Images (BuildContext)
+
+<img src="https://github.com/muziri/filter_bar/blob/main/screenshot/1.jpg?raw=true" width="320px" />
+
+
 ## FilterBar (Android & iOS)
 
 ```dart
